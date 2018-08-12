@@ -1,0 +1,11 @@
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssoc.exe.config
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssoc.exe
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssoc.pdb
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpIndxr.csproj.CoreCompileInputs.cache
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpAssoc.exe
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpAssoc.pdb
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssociation.exe
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssociation.pdb
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssociation.exe.config
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpIndxr.csprojAssemblyReference.cache
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpIndxr.csproj.CopyComplete

@@ -1,0 +1,7 @@
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssoc.exe.config
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssoc.exe
+F:\VS_Project\CsharpAssoc\CsharpAssoc\bin\Debug\CsharpAssoc.pdb
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpAssoc.csprojAssemblyReference.cache
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpAssoc.csproj.CoreCompileInputs.cache
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpAssoc.exe
+F:\VS_Project\CsharpAssoc\CsharpAssoc\obj\Debug\CsharpAssoc.pdb
